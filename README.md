@@ -1,4 +1,4 @@
-# macOS-Style Linux ISO
+# macOS-Style Linux ISO 
 
 A custom Ubuntu-based Linux distribution featuring macOS-style aesthetics including a blurred dock, macOS-like top bar, and system information panel.
 
